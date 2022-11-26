@@ -1,5 +1,5 @@
-public class habibaa.java{
+public class Habibaa{
     public static void main(String [] args){
-        System.out.printlnO("habiba");
+    System.out.println ("habiba");
     }
 }
